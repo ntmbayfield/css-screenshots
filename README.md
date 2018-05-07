@@ -2,7 +2,7 @@
 
 ## Instructions
 
-From this repo, make a branch called `insertYourName>`.
+From this repo, make a branch called `insertYourName`.
 
 Finish these three css assignments.
 
